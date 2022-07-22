@@ -45,8 +45,8 @@ Criando uma imagem do instalador do WhaTicket na pasta raiz
 ```bash
 cd ~
 sudo git clone https://github.com/VespertineWeb/whaticket_installer
-sudo chmod +x ./whaticket_installer/whaticket
-cd ./whaticket_installer
+sudo chmod +x ./WHATICKET-INSTALLER-CARLOS_GORGES/whaticket
+cd ./WHATICKET-INSTALLER-CARLOS_GORGES
 sudo ./whaticket
 ```
 
